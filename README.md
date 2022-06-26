@@ -1,5 +1,4 @@
-<h1 align="center">via</h1> 
-<h3 align="center">A <a href="https://via.land/"> build tool </a> that lets developers easily set up <a href='https://github.com/sveltejs/svelte'> Svelte </a> applications in a <a href='https://github.com/denoland/deno'> Deno </a> runtime.</h3>
+<h1> Svelte -> Deno </h1>
 
 
 ## ✨ Features 
