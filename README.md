@@ -57,10 +57,3 @@ via dev
 ```
 
 - This will start up the development server and will open a websocket listening for any changes to the <code>./src</code> folder. Upon saving changes, your svelte code will be compiled again and the browser will reload to reflect the changes.
-
-## Read More
-- <a href='https://medium.com/codex/via-accelerating-svelte-and-deno-application-generation-3371c395461a'>via: Accelerating Svelte and Deno Application Creation </a>
-
-
-## 👋  
-- <a href='https://github.com/ff4f00'>Omari Enso</a>
