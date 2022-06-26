@@ -70,9 +70,7 @@ As an open-source product, we value your help!
 - To contribute, please submit a PR with a descriptive title or create an issue to discuss with other contributors before proceeding. 
 
 ## 👋 Meet the via team
-- <a href='https://github.com/clherring'>Christie Herring</a>
-- <a href='https://github.com/grhhhh'>Garrett Hickman</a>
-- <a href='https://github.com/liusylvia'>Sylvia Liu</a>
-- <a href='https://github.com/tanpeterson'>Tanner Peterson</a>
+- <a href='https://github.com/ff4f00'>Omari Enso</a>
+
 
 <h3 align='center'>Developed Under OS Labs</h3>
