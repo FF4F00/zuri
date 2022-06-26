@@ -1,6 +1,3 @@
-<h1> Svelte -> Deno </h1>
-
-
 ## ✨ Features 
 
 
