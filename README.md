@@ -61,9 +61,6 @@ via dev
 ## Read More
 - <a href='https://medium.com/codex/via-accelerating-svelte-and-deno-application-generation-3371c395461a'>via: Accelerating Svelte and Deno Application Creation </a>
 
-## ➕ Contributing
-As an open-source product, we value your help! 
-- To contribute, please submit a PR with a descriptive title or create an issue to discuss with other contributors before proceeding. 
 
-## 👋 Meet the via team
+## 👋  
 - <a href='https://github.com/ff4f00'>Omari Enso</a>
