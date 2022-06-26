@@ -67,6 +67,3 @@ As an open-source product, we value your help!
 
 ## 👋 Meet the via team
 - <a href='https://github.com/ff4f00'>Omari Enso</a>
-
-
-<h3 align='center'>Developed Under OS Labs</h3>
