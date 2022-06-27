@@ -16,19 +16,6 @@ deno install --allow-net --allow-read --allow-write --unstable https://deno.land
 Read more about <a href="https://deno.land/manual@v1.16.2/getting_started/permissions">permissions</a> or <a href="https://deno.land/manual/runtime/stability">stability</a> here
 </details>
 
-## 💫  Overview
-- After installing, run the following commands to get started.
-
-```
-via create my-app
-cd my-app
-via build
-via dev
-```
-- After running <code>via dev</code>, open <a href=http://localhost:3000>http://localhost:3000</a> to see your app.</p>
-- Make changes to the .svelte files in the source folder for live reloading on the browser.</p>
-
-
 
 ## ⭐ How to use via
 
@@ -50,6 +37,19 @@ via dev
 ```
 
 - This will start up the development server and will open a websocket listening for any changes to the <code>./src</code> folder. Upon saving changes, your svelte code will be compiled again and the browser will reload to reflect the changes.
+
+
+## 💫  Overview
+- After installing, run the following commands to get started.
+
+```
+via create my-app
+cd my-app
+via build
+via dev
+```
+- After running <code>via dev</code>, open <a href=http://localhost:3000>http://localhost:3000</a> to see your app.</p>
+- Make changes to the .svelte files in the source folder for live reloading on the browser.</p>
 
 ## ✨ Features 
 
