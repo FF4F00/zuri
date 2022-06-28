@@ -5,8 +5,8 @@ export const indexHTML = `<!DOCTYPE html>
     <link rel="icon" href="data:;base64,=">
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <meta name="description" content="Starter via app" />
-    <title>Starter via app</title>
+    <meta name="description" content="Starter zuri app" />
+    <title>Starter zuri app</title>
   </head>
   <body>
     <!-- Keep this script. It's how compiled svelte apps are rendered -->
@@ -54,7 +54,7 @@ img {
 
 <div class="counter">
 <p class="app-name">
-  via
+  zuri
 </p>
 <p>
   You clicked {count} {count === 1 ? 'time' : 'times'}
@@ -67,7 +67,7 @@ img {
 </button>
 <div class='github-container'>
   <img {src} alt='github logo'>
-  <a class='Github' href='https://github.com/vialand/via'>
+  <a class='Github' href='https://github.com/zuriland/zuri'>
     Github
   </a>
 </div>

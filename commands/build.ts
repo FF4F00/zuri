@@ -6,14 +6,14 @@ import boilerplate from "../templates/build.ts";
 import denofy from "../compiler/compiler.ts";
 
 // Function to run when given build command
-export const BuildProject = async (flag: string, cwd = Deno.cwd(), path = '/src/App.svelte') => { // C:\\Users\\Tanner\\Documents\\GitHub\\via2\\tests\\src\\App.svelte
+export const BuildProject = async (flag: string, cwd = Deno.cwd(), path = '/src/App.svelte') => { // C:\\Users\\Tanner\\Documents\\GitHub\\zuri2\\tests\\src\\App.svelte
   const sveltePath = "https://cdn.skypack.dev/svelte@3.44.1";
   const encoder = new TextEncoder();
   const fullPath = join(cwd, path);
   const memoized: { [key: string]: boolean } = {};
 
   if (flags["help"][flag]) {
-    console.log(`To run build, type:` + ` %via build`, "color:#55dac8");
+    console.log(`To run build, type:` + ` %zuri build`, "color:#55dac8");
     return false;
   }
 
